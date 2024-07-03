@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shashaank Srivastava @ShashaankS
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Mail : shashaank.srivastava04@gmail.com Mob : +91 9140340531
 
