@@ -4,12 +4,16 @@
 <div>
   Let's connect <br/>
   <a href="https://www.instagram.com/yaa.its_shashaank/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+    <img height="50" src="./instagram.svg"/>
   </a>
   <a href="www.linkedin.com/in/shashaank-srivastava-852933289">
     <img height="50" src="./linkedin.svg"/>
   </a>
+  <a href="mailto:shashaank.srivastava04@gmail.com">
+    <img height="50" src="./email.svg"/>
+  </a>
 </div>
+<br/>
 
 - 👋 Hi, I’m Shashaank Srivastava @ShashaankS
 - 👀 I’m interested in web development
