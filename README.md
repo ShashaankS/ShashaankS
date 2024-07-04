@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey%20Everyone!🕹️&animation=fadeIn" />
+</div>
+
 - 👋 Hi, I’m Shashaank Srivastava @ShashaankS
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React JS
