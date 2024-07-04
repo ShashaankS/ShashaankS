@@ -19,7 +19,6 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on Mail : shashaank.srivastava04@gmail.com Mob : +91 9140340531
 
 ![ShashaankS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashaankS&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
