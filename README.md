@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **DJango**.
+- 🌱 I’m currently learning **Go Lang**.
 - 💼 I’m open to collaborating on **open-source projects**.
 - 🛠️ My tech stack includes:
-  - **Languages:** JavaScript, Python, C++, Java
-  - **Frameworks:** React, Vue
-  - **Tools:** Git, Docker
+  - **Languages:** Python, C++, HTML, CSS, JavaScript, TypeScript, SQL, Bash
+  - **Frameworks:** Reactjs, NodeJs, ExpressJS, Django, Flask, MongoDB, Supabase, NextJs, VueJs, TensorFlow, PyTorch
+  - **Tools:** VS Code, Figma, Vercel, Docker, Git, Github & Github Actions
 
 ### 🌟 Quick Learner & Adaptable
 
