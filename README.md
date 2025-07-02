@@ -22,7 +22,7 @@ Feel free to connect with me:
 <a href="https://www.instagram.com/yaa.its_shashaank/">
     <img height="50" src="./instagram.svg"/>
   </a>
-  <a href="www.linkedin.com/in/shashaank-srivastava-852933289">
+  <a href="https://www.linkedin.com/in/shashaank-srivastava-852933289">
     <img height="50" src="./linkedin.svg"/>
   </a>
   <a href="mailto:shashaank.srivastava04@gmail.com">
