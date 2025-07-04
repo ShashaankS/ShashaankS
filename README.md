@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Go Lang**.
+- 🌱 I’m currently learning **Golang**.
 - 💼 I’m open to collaborating on **open-source projects**.
 - 🛠️ My tech stack includes:
   - **Languages:** Python, C++, HTML, CSS, JavaScript, TypeScript, SQL, Bash
-  - **Frameworks:** Reactjs, NodeJs, ExpressJS, Django, Flask, MongoDB, Supabase, NextJs, VueJs, TensorFlow, PyTorch
+  - **Frameworks:** Reactjs, NodeJs, ExpressJS, Django, Flask, MongoDB, Supabase, NeonDB, NextJs, VueJs
   - **Tools:** VS Code, Figma, Vercel, Docker, Git, Github & Github Actions
 
 ### 🌟 Quick Learner & Adaptable
@@ -19,15 +19,12 @@ I thrive in dynamic environments and enjoy tackling new challenges, i believe in
 
 Feel free to connect with me:
 <br>
-<a href="https://www.instagram.com/yaa.its_shashaank/">
-    <img height="50" src="./instagram.svg"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shashaank-srivastava-852933289">
-    <img height="50" src="./linkedin.svg"/>
-  </a>
-  <a href="mailto:shashaank.srivastava04@gmail.com">
-    <img height="50" src="./email.svg"/>
-  </a>
+<a href="https://www.linkedin.com/in/shashaank-srivastava-852933289">
+  <img width="50" src="./linkedin.svg"/>
+</a>
+<a href="mailto:shashaank.srivastava04@gmail.com">
+  <img widht="50" src="./email.svg"/>
+</a>
 
 ![ShashaankS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashaankS&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
