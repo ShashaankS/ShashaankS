@@ -1,11 +1,11 @@
 # Hi there, I'm Shashaank Srivastava (@ShashaankS)! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for learning and contributing to open-source projects.
+I'm a passionate developer with a love for learning and contributing to open-source projects.
 
 ## 🚀 About Me
 
 - 🌱 I’m currently learning **Golang**.
-- 💼 I’m open to collaborating on **open-source projects**.
+- 💼 I’m open to collaborating on **backends and DevOps**.
 - 🛠️ My tech stack includes:
   - **Languages:** Python, C++, HTML, CSS, JavaScript, TypeScript, SQL, Bash
   - **Frameworks:** Reactjs, NodeJs, ExpressJS, Django, Flask, MongoDB, Supabase, NeonDB, NextJs, VueJs
