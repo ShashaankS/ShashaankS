@@ -1,0 +1,54 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  annotations: {}
+  labels:
+    app: hello-world
+  name: hello-world
+  namespace: default
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: hello-world
+  template:
+    metadata:
+      labels:
+        app: hello-world
+    spec:
+      containers:
+        - args: []
+          command: []
+          env: []
+          envFrom: []
+          image: nginxdemos/hello
+          name: hello
+          ports:
+            - containerPort: 80
+          resizePolicy: []
+          volumeDevices: []
+          volumeMounts: []
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  annotations: {}
+  labels: {}
+  name: default
+  namespace: default
+---
+apiVersion: v1
+kind: Service
+metadata:
+  annotations: {}
+  labels: {}
+  name: hello-world-svc
+  namespace: default
+spec:
+  ports:
+    - port: 8080
+      protocol: TCP
+      targetPort: 80
+  selector:
+    app: hello-world
+  type: NodePort
