@@ -71,6 +71,7 @@ I thrive in dynamic environments and enjoy tackling new challenges, i believe in
 
 Thanks for stopping by! Looking forward to collaborating with you! 😊
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ShashaankS&style=flat-square&base=100&color=blueviolet)
 <!---
 ShashaankS/ShashaankS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
