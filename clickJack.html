@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <h1>Fake Page (Clickjacking Test)</h1>
+  <iframe 
+    src="https://68870cfce97060a1fc3f2de9--layer5.netlify.app/" 
+    width="100%" 
+    height="100%" 
+    style="opacity:0.3; position:absolute; top:50px; left:0;">
+  </iframe>
+  <button style="position:absolute; top:300px; left:100px; z-index:100;">
+    TRICK BUTTON (Overlaid on the form!)
+  </button>
+</body>
+</html>
