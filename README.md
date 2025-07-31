@@ -23,14 +23,12 @@ I thrive in dynamic environments and enjoy tackling new challenges, i believe in
 <a href= "https://cloud.layer5.io/user/ac229fa5-156c-4ed8-8c85-9ccf090b63ec?tab=badges&badge=first-deployment" >
   <img width="200px" height="220px" src = "https://badges.layer5.io/assets/badges/first-deployment/first-deployment.png" alt = "First Deployment" />
 </a >
-<br>
 <a href= "https://www.credly.com/badges/b202cad4-d866-459f-8125-2b63915cfe2f/public_url" >
   <img width="160px" height="220px" src = "https://github.com/ShashaankS/ShashaankS/blob/main/lfs158-introduction-to-kubernetes.png" alt = "Introduction to Kubernetes" />
 </a >
 <a href= "https://www.credly.com/badges/ced1beef-03bd-4e1c-9cd1-5997ab82e645/public_url" >
   <img width="160px" height="220px" src = "https://github.com/ShashaankS/ShashaankS/blob/main/lfs170-blockchain-understanding-its-uses-and-implic.png" alt = "Understanding Blockchain" />
 </a >
-
 
 ## 📫 Get in Touch
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashaank.srivastava04@gmail.com)
@@ -67,6 +65,7 @@ I thrive in dynamic environments and enjoy tackling new challenges, i believe in
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)]()
 
+![ShashaankS's Stats](https://github-readme-stats.vercel.app/api?username=ShashaankS&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![ShashaankS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashaankS&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 Thanks for stopping by! Looking forward to collaborating with you! 😊
