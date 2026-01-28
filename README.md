@@ -15,21 +15,6 @@ I'm a passionate developer with a love for learning and contributing to open-sou
 
 I thrive in dynamic environments and enjoy tackling new challenges, i believe in the power of community and collaboration.
 
-
-### 🏅 Badges
-<a href= "https://cloud.layer5.io/user/ac229fa5-156c-4ed8-8c85-9ccf090b63ec?tab=badges&badge=first-design" >
-  <img width="200px" height="220px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
-</a >
-<a href= "https://cloud.layer5.io/user/ac229fa5-156c-4ed8-8c85-9ccf090b63ec?tab=badges&badge=first-deployment" >
-  <img width="200px" height="220px" src = "https://badges.layer5.io/assets/badges/first-deployment/first-deployment.png" alt = "First Deployment" />
-</a >
-<a href= "https://www.credly.com/badges/b202cad4-d866-459f-8125-2b63915cfe2f/public_url" >
-  <img width="160px" height="220px" src = "https://github.com/ShashaankS/ShashaankS/blob/main/lfs158-introduction-to-kubernetes.png" alt = "Introduction to Kubernetes" />
-</a >
-<a href= "https://www.credly.com/badges/ced1beef-03bd-4e1c-9cd1-5997ab82e645/public_url" >
-  <img width="160px" height="220px" src = "https://github.com/ShashaankS/ShashaankS/blob/main/lfs170-blockchain-understanding-its-uses-and-implic.png" alt = "Understanding Blockchain" />
-</a >
-
 ## 📫 Get in Touch
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashaank.srivastava04@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashaank-srivastava-852933289)
