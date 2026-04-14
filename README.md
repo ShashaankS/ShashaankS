@@ -54,7 +54,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🧓 [Saathi – AI Elder Care Companion](https://github.com/ShashaankS)
+### 🧓 [Saathi – AI Elder Care Companion](https://github.com/Stutigovil/saathi)
 **🏆 Best Use of ElevenLabs — HackByte 4.0**
 
 Hindi-first AI voice platform that places proactive calls to elderly users, maintains conversation memory, and surfaces mood/risk signals to caregivers.
@@ -70,7 +70,7 @@ Mood Trend Analysis → Caregiver Alerts
 </td>
 <td width="50%" valign="top">
 
-### 📝 [Buddy – AI Study Assistant](https://github.com/ShashaankS)
+### 📝 [Buddy – AI Study Assistant](https://github.com/ShashaankS/buddy)
 **RAG-powered note-taking with contextual Q&A**
 
 Scalable AI backend with OpenAI-powered summarization, flashcard generation, and a RAG retrieval workflow over large note datasets.
@@ -88,7 +88,7 @@ User Notes → Vector Index
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ [CodeCrusher – Distributed Code Engine](https://github.com/ShashaankS)
+### ⚙️ [CodeCrusher – Distributed Code Engine](https://github.com/ShashaankS/codecrusher)
 **Scalable async remote code execution**
 
 Engineered a distributed API–worker architecture with Redis + BullMQ queues for concurrent, sandboxed code execution across Docker environments.
@@ -104,7 +104,7 @@ HTTP Request → BullMQ Queue → Docker Sandbox
 </td>
 <td width="50%" valign="top">
 
-### 🖨️ [IntelliPrint – 3D Printer Automation](https://github.com/ShashaankS)
+### 🖨️ [IntelliPrint – 3D Printer Automation](https://github.com/ShashaankS/intelliprint)
 **Patent-backed hardware-software system**
 
 End-to-end automation for 3D printer part removal and queue management. Research led to a patent filing and publication at **ASME IMECE 2025**.
